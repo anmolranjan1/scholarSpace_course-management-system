@@ -3,6 +3,6 @@
 ## Contributors:-
 
 Anmol Ranjan
-Aryan Prasad
+-- Aryan Prasad
 -- Abhishek Kumar Singh
 Pratyush Kumar
